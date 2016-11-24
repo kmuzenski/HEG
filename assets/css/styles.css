@@ -31,6 +31,10 @@ p {
    font-family:fairy;
 }
 
+img {
+	width: 100%;
+}
+
 
 .navbar {
    background-color: transparent;
