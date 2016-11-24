@@ -9,7 +9,7 @@
 
 
 <?php require_once('nav.php'); ?> 
-
+<br><br><br>
 
 <div class="container">
 <div class="row">
@@ -19,7 +19,7 @@
 <h1> HOLLYS ENCHANTED GARDENS</h1>
 <h2> Enter</h2>
 </center>
-<br><br><br><br>
+<br><br><br>
 
 </div>
 </div>
