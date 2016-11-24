@@ -14,8 +14,7 @@
 <div class="col-xs-12 col-md-12 col-lg-12">
 
 <center>
-<h1> HOLLYS ENCHANTED GARDENS</h1>
-<a href="about.php"><h2>Enter</h2></a>
+<h3> HOLLYS ENCHANTED GARDENS</h3>
 </center>
 <br><br><br>
 
