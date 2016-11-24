@@ -8,8 +8,8 @@
 
 
 
-<?php require_once('nav.php'); ?>
-<br><br><br><br><br><br>
+<?php require_once('nav.php'); ?> 
+
 
 <div class="container">
 <div class="row">
