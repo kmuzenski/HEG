@@ -3,32 +3,32 @@ background-color: #FFFFFF;
 }
 
 @font-face {
-	font-family:pretty;
-	src: url(../fonts/pretty.ttf);
+	font-family:fairy;
+	src: url(../fonts/fairy.ttf);
 }
 
 h1 {
-	color:#9428a8;
-  font-family:pretty;
+	color:#2010a0;
+  font-family:fairy;
 }
 
 h2 {
-	color:#9428a8;
-	font-family:pretty;}
+	color:#2010a0;
+	font-family:fairy;}
 
 h3 {
-	color:#9428a8;
-	font-family:pretty;
+	color:#2010a0;
+	font-family:fairy;
 }
 
 a {
-	color:#9428a8;
-   font-family:pretty;
+	color:#2010a0;
+   font-family:fairy;
 }
 
 p {
-	color:#9428a8;
-   font-family:pretty;
+	color:#2010a0;
+   font-family:fairy;
 }
 
 
@@ -39,7 +39,7 @@ p {
 }
 
 .navbar li { 
-	color: #9428a8; 
+	color: #2010a0; 
 }
 
 
