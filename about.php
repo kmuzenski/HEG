@@ -22,7 +22,31 @@
 
 <div class="row">
 <div class="col-xs-4 col-md-4 col-lg-4">
+<h5>Gallery</h5>
+</div>
+</div>
 
+<div class="row">
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/one.jpg">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/two.jpg">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/three.jpg">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/four.jpg">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/five.jpg">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/six.jpg">
+</div>
+
+</div>
 </div>
 
 
