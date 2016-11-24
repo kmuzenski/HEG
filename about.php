@@ -20,6 +20,8 @@
 </div>
 </div>
 
+<br><br><br><br>
+
 <div class="row">
 <div class="col-xs-4 col-md-4 col-lg-4">
 <h5>Gallery</h5>
