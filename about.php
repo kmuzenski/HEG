@@ -4,9 +4,9 @@
 
 <?php require_once('header.php'); ?>
 
-<body class="index">
+<body>
 
-
+<?php require_once('nav.php'); ?>
 <br><br><br>
 
 <div class="container">
