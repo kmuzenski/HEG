@@ -49,6 +49,33 @@
 </div>
 
 </div>
+
+<br><br><br><br>
+
+<div class="row">
+<div class="col-xs-4 col-md-4 col-lg-4">
+<h5>Services</h5>
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/1.jpg" width="200" height="200">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/2.jpg" width="200" height="200">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/3.jpg" width="200" height="200">
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/4.jpg" width="200" height="200">
+</div>
+
+
+</div>
+
+
 </div>
 
 
