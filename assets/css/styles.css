@@ -11,13 +11,15 @@ background-size: cover;
 
 h1 {
 	color:#2010a0;
-  font-family:fairy;
-  font-size: 100px;
+	font-family:fairy;
+	font-size: 100px;
 }
 
 h2 {
 	color:#2010a0;
-	font-family:fairy;}
+	font-family:fairy;
+	font-size: 72px;
+}
 
 h3 {
 	color:#2010a0;
