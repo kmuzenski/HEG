@@ -18,6 +18,7 @@
 <center>
 <h1> HOLLYS ENCHANTED GARDENS</h1>
 <h3> extraodinary land scaping and snow removal </h3>
+<img src="assets/img/main.jpg">
 </center>
 <br><br><br><br>
 
