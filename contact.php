@@ -13,10 +13,12 @@
 
 <div class="container">
 <div class="row">
+
 <div class="col-xs-12 col-md-12 col-lg-12">
 
-<center>
+
 <h1> Contact Us!</h1>
+
 </div>
 </div>
 
@@ -33,7 +35,7 @@
 </div>
 
 
-</center>
+
 
 
 
