@@ -15,11 +15,14 @@
 
 <center>
 <h3> HOLLYS ENCHANTED GARDENS</h3>
+<h4>Exceptional Landscaping and Snow Removal Services</h4>
 </center>
-<br><br><br>
+</div>
+</div>
 
-</div>
-</div>
+<div class="row">
+<div class="col-xs-4 col-md-4 col-lg-4">
+
 </div>
 
 
