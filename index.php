@@ -6,6 +6,10 @@
 
 <body>
 
+
+<?php require_once('nav.php'); ?>
+<br><br><br>
+
 <div class="container">
 <div class="row">
 <div class="col-xs-12 col-md-12 col-lg-12">
@@ -14,15 +18,14 @@
 <h3> HOLLYS ENCHANTED GARDENS</h3>
 </center>
 
-<br><br><br>
 
-<?php require_once('nav.php'); ?>
+</div>
 </div>
 </div>
 
 <div class="container">
 	<div class="row">
-		<div class="col-xs-12 col-md-12 col-lg-12">
+		<div class="col-xs-4 col-md-6 col-lg-12">
 			<img src="assets/img/indexpot.JPG">
 		</div>
 	</div>
