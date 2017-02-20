@@ -12,7 +12,7 @@
   
 
          
-	 <div id="navbar" class="collapse navbar-collapse">
+	 <div id="navbar" class="collapse navbar-collapse navbar">
           	
 		<ul class="nav navbar-nav">
 		
