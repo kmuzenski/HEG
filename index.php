@@ -26,7 +26,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-4 col-md-6 col-lg-12">
-			<img src="assets/img/indexpot.JPG">
+			<img src="assets/img/indexpot.JPG" width="100">
 		</div>
 	</div>
 </div>
