@@ -14,7 +14,6 @@
 <h3> HOLLYS ENCHANTED GARDENS</h3>
 <h4>Exceptional Landscaping and Snow Removal Services</h4>
 </center>
-<?php require_once('nav.php'); ?>
 <br><br><br>
 </div>
 </div>
