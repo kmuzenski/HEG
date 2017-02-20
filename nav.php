@@ -1,8 +1,9 @@
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-fixed-top">
       	
 	<div class="container">
     	<div class="navbar-header">
-          
+          <a class="navbar-brand" href="#"></a>
+        </div>
 		<button type="button" class="navbar-toggle btn-custom" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
          	<span class="sr-only">Toggle navigation</span>
          	<span class="icon-bar"></span>
