@@ -15,6 +15,8 @@
 </center>
 
 <br><br><br>
+
+<?php require_once('nav.php'); ?>
 </div>
 </div>
 
