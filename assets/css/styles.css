@@ -57,14 +57,12 @@ p {
 
 
 .navbar {
-   background-color: transparent;
-   background: transparent;
+   background-color: #2010a0;
+   color: #FFFFFF;
    border-color: transparent;
 }
 
-.navbar { 
-	color: #2010a0; 
-}
+
 
 
 
