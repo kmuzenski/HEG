@@ -14,7 +14,7 @@
          
 	 <div id="navbar" class="collapse navbar-collapse">
           	
-		<ul class="nav navbar-nav">
+		<ul class="nav navbar-nav navbar-custom">
 		
 		<li><a  href="index.php">Home</a></li>
     <li><a  href="contact.php">Contact</a></li>

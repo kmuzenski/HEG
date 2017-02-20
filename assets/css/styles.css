@@ -56,15 +56,13 @@ p {
 }
 
 
-.navbar {
+.navbar-custom {
    background-color: #2010a0;
    color: #FFFFFF;
    border-color: transparent;
 }
 
-.li .navbar {
-	color: #FFFFFF;
-}
+
 
 
 
