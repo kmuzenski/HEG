@@ -58,12 +58,11 @@ p {
 
 .navbar {
    background-color: #2010a0;
-  
-   border-color: transparent;
+ 
 }
 
-.navbar li a {
-	color:#FFFFFF;
+.navbar a {
+	color:white;
 }
 
 
