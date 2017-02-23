@@ -24,7 +24,9 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
-			<img src="assets/img/indexpot.JPG" width="50%">
+		<center>
+			<img src="assets/img/indexpot.JPG" width="75%">
+		</center>
 		</div>
 	</div>
 </div>
