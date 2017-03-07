@@ -25,19 +25,19 @@
 	<div class="row">
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<img src="assets/img/indexpot.JPG" width="50%">
+			<img src="assets/img/indexpot.JPG" width="75%">
 		</center>
 		</div>
 		
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<img src="assets/img/indexpot.JPG" width="50%">
+			<img src="assets/img/indexpot.JPG" width="75%">
 		</center>
 		</div>
 
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<img src="assets/img/indexpot.JPG" width="50%">
+			<img src="assets/img/indexpot.JPG" width="75%">
 		</center>
 		</div>
 	</div><!-- row -->
