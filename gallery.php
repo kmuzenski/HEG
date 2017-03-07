@@ -23,21 +23,21 @@
 
 <div class="slideshow-container">
 
-	<div class="mySlides">
+	<div class="mySlides fade">
 		<div class="numbertext"> 1 / 3 </div>
 			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
 			<div class="text">Summer Pot </div>
 	</div>
 
-	<div class="mySlides">
+	<div class="mySlides fade">
 		<div class="numbertext"> 2 / 3 </div>
 			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
 			<div class="text"> Image two </div>
 
 	</div>
 
-	<div class="mySlides">
-		<div class="numbertext"> 3 / 3 </div>
+	<div class="mySlides fade">
+		<div class="numbertext "> 3 / 3 </div>
 			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
 			<div class="text"> Image three </div>
 
