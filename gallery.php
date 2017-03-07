@@ -58,6 +58,8 @@
  
 <br><br>
 
+
+<?php require_once('footer.php'); ?>
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
@@ -86,7 +88,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-<?php require_once('footer.php'); ?>
 
 </body>
 </html>
