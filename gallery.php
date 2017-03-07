@@ -8,9 +8,17 @@
 <?php require_once('nav.php'); ?>
 <br><br><br><br><br><br>
 
-<h2> Albums </h2>
-<p><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></p>
-<br><br><br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-md-12 col-lg-12">
+		<center>
+		<h2> Albums </h2>
+		<h5><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></h5>
+		</center>
+		</div>
+	</div>
+</div>
+
 
 <div class="container">
 	<div class="row">

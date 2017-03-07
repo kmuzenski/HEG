@@ -6,19 +6,16 @@
 
 <body>
 <?php require_once('nav.php'); ?>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <div class="container">
-<div class="row">
-<div class="col-xs-12 col-md-12 col-lg-12">
-
-<center>
-<h3> HOLLYS ENCHANTED GARDENS</h3>
-</center>
-
-
-</div>
-</div>
+	<div class="row">
+		<div class="col-xs-12 col-md-12 col-lg-12">
+			<center>
+			<h3> HOLLYS ENCHANTED GARDENS</h3>
+			</center>
+		</div>
+	</div>
 </div>
 
 <div class="container">
@@ -26,8 +23,8 @@
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
 			<a href="gallery.php"><h5>View Full Gallery</h5></a>
-			<br><br>
-			<img src="assets/img/indexpot.JPG" width="50%">
+			<br>
+			<img src="assets/img/indexpot.JPG" width="33%">
 		</center>
 		</div>
 	</div>
