@@ -12,36 +12,17 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
-		<h2> Albums </h2>
-		<h5><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></h5>
+		<h2> Gallery</h2>
+		<h6><a href="albums.php" title="View Photo Albums"> View Photo Albums </a></h6>
 		</center>
 		</div>
 	</div>
 </div>
 
-<br><br><br><br>
+<br><br>
 
-<div class="container">
-	<div class="row">
-		<div class="col-xs-4 col-md-4 col-lg-4">
-		<center>
-			<img src="assets/img/indexpot.JPG" width="75%">
-		</center>
-		</div>
-		
-		<div class="col-xs-4 col-md-4 col-lg-4">
-		<center>
-			<img src="assets/img/indexpot.JPG" width="75%">
-		</center>
-		</div>
 
-		<div class="col-xs-4 col-md-4 col-lg-4">
-		<center>
-			<img src="assets/img/indexpot.JPG" width="75%">
-		</center>
-		</div>
-	</div><!-- row -->
-</div><!-- container -->
+
 
 
 
