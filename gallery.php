@@ -13,7 +13,7 @@
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
 		<h2> Gallery</h2>
-		<h6><a href="albums.php" title="View Photo Albums"> View Photo Albums </a></h6>
+		<a href="albums.php" title="View Photo Albums"><h6> View Photo Albums </h6></a>
 		</center>
 		</div>
 	</div>
