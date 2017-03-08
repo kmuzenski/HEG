@@ -39,7 +39,7 @@
 <div class="mySlides">
   <div class="numbertext">2 / 3</div>
   <center>
-  <img src="assets/img/smpot1.JPG" style="width:50%" height="300px">
+  <img src="assets/img/smpot1.JPG" style="width:50%">
   </center>
   <div class="text">Caption Two</div>
 </div>
