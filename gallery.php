@@ -29,27 +29,35 @@
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 4</div>
   <center>
   <img src="assets/img/indexpot.JPG" style="width:60%">
   </center>
-  <div class="text">Caption Text</div>
+  <div class="text">Summer Pot</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 4</div>
   <center>
   <img src="assets/img/smpot1.JPG" style="width:50%">
   </center>
-  <div class="text">Caption Two</div>
+  <div class="text">Summer Pot</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 4</div>
   <center>
   <img src="assets/img/smpot2.JPG" style="width:50%">
   </center>
-  <div class="text">Caption Three</div>
+  <div class="text">Summer Pot</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">4 / 4</div>
+  <center>
+  <img src="assets/img/smpot3.JPG" style="width:50%">
+  </center>
+  <div class="text">Summer Pot</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -62,6 +70,7 @@
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
 
 		</div><!-- col row container -->
