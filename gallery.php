@@ -33,11 +33,19 @@
   <center>
   <img src="assets/img/indexpot.JPG" style="width:60%">
   </center>
+  <div class="text">Featured Pot</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">2 / 6</div>
+  <center>
+  <img src="assets/img/sppot1.JPG" style="width:50%">
+  </center>
   <div class="text">Summer Pot</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 5</div>
+  <div class="numbertext">3 / 6</div>
   <center>
   <img src="assets/img/smpot1.JPG" style="width:50%">
   </center>
@@ -45,7 +53,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 5</div>
+  <div class="numbertext">4 / 6</div>
   <center>
   <img src="assets/img/smpot2.JPG" style="width:50%">
   </center>
@@ -53,7 +61,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">4 / 5</div>
+  <div class="numbertext">5 / 6</div>
   <center>
   <img src="assets/img/smpot3.JPG" style="width:50%">
   </center>
@@ -61,7 +69,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">5 / 5</div>
+  <div class="numbertext">6 / 6</div>
   <center>
   <img src="assets/img/smpot4.JPG" style="width:50%">
   </center>
@@ -79,6 +87,8 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+
 </div>
 
 		</div><!-- col row container -->
