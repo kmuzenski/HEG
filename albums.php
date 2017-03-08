@@ -18,10 +18,8 @@
 		</div>
 
 		<div class="col-xs-8 col-md-8 col-lg-8">
-		<center>
 		<h2> Albums </h2>
 		<h5><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></h5>
-		</center>
 		</div>
 	</div>
 </div>
