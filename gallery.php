@@ -29,7 +29,7 @@
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <div class="numbertext">1 / 5</div>
+  <div class="numbertext">1 / 8</div>
   <center>
   <img src="assets/img/indexpot.JPG" style="width:60%">
   </center>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext">2 / 8</div>
   <center>
   <img src="assets/img/sppot1.JPG" style="width:45%">
   </center>
@@ -45,15 +45,23 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">3 / 8</div>
   <center>
-  <img src="assets/img/spbox.JPG" style="width:70%">
+  <img src="assets/img/sppot2.JPG" style="width:45%">
+  </center>
+  <div class="text">Spring Pot</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">4 / 8</div>
+  <center>
+  <img src="assets/img/spbox.JPG" style="width:65%">
   </center>
   <div class="text">Spring Box</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">5 / 8</div>
   <center>
   <img src="assets/img/smpot1.JPG" style="width:45%">
   </center>
@@ -61,7 +69,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">6 / 8</div>
   <center>
   <img src="assets/img/smpot2.JPG" style="width:45%">
   </center>
@@ -69,7 +77,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">7 / 8</div>
   <center>
   <img src="assets/img/smpot3.JPG" style="width:45%">
   </center>
@@ -77,7 +85,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">8 / 8</div>
   <center>
   <img src="assets/img/smpot4.JPG" style="width:45%">
   </center>
@@ -98,6 +106,8 @@
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span> 
   <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
+
 
 
 </div>
