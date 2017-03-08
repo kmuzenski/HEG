@@ -47,7 +47,7 @@
 <div class="mySlides">
   <div class="numbertext">3 / 7</div>
   <center>
-  <img src="assets/img/spbox.JPG" style="width:50%">
+  <img src="assets/img/spbox.JPG" style="width:60%">
   </center>
   <div class="text">Spring Box</div>
 </div>
