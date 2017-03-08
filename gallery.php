@@ -6,7 +6,7 @@
 
 <body>
 <?php require_once('nav.php'); ?>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <div class="container">
 	<div class="row">
