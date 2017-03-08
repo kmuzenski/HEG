@@ -39,7 +39,7 @@
 <div class="mySlides">
   <div class="numbertext">2 / 3</div>
   <center>
-  <img src="assets/img/smpot1.JPG" style="width:50%">
+  <img src="assets/img/smpot1.JPG" style="width:50%" height="300px">
   </center>
   <div class="text">Caption Two</div>
 </div>
@@ -47,7 +47,7 @@
 <div class="mySlides">
   <div class="numbertext">3 / 3</div>
   <center>
-  <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" style="width:50%">
+  <img src="assets/img/smpot2.JPG" style="width:50%">
   </center>
   <div class="text">Caption Three</div>
 </div>
