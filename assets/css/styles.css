@@ -66,6 +66,9 @@ p {
 	color:white;
 }
 
+.album {
+	border: 1px solid #2010a0;
+}
 
 * {box-sizing:border-box}
 body {

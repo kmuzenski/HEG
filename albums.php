@@ -25,7 +25,7 @@
 	<div class="row">
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<a href="summerpots.php" title="summer pots"><img src="assets/img/smalbum.png" width="75%"></a>
+			<a href="summerpots.php" title="summer pots"><img src="assets/img/smalbum.png" class="album" width="75%"></a>
 		</center>
 		</div>
 		
