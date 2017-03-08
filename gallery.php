@@ -23,31 +23,28 @@
 
 <div class="slideshow-container">
 
-	<div class="mySlides fade">
-		<div class="numbertext"> 1 / 3 </div>
-			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
-			<div class="text">Summer Pot </div>
-	</div>
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
 
-	<div class="mySlides fade">
-		<div class="numbertext"> 2 / 3 </div>
-			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
-			<div class="text"> Image two </div>
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-adult-landing-hero.ashx" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
 
-	</div>
-
-	<div class="mySlides fade">
-		<div class="numbertext"> 3 / 3 </div>
-			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
-			<div class="text"> Image three </div>
-
-	</div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-</div> <!-- container -- > 
-
+</div>
 <br>
 
 <div style="text-align:center">
@@ -55,9 +52,6 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
- 
-<br><br>
-
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
