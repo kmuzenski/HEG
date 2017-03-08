@@ -19,7 +19,7 @@
 	</div>
 </div>
 
-<br><br>
+<br><br><br><br><br> 
 
 <div class="slideshow-container">
 
@@ -37,7 +37,7 @@
 	</div>
 
 	<div class="mySlides fade">
-		<div class="numbertext "> 3 / 3 </div>
+		<div class="numbertext"> 3 / 3 </div>
 			<img src="assets/img/indexpot.JPG" title="summer pot" width="100%">
 			<div class="text"> Image three </div>
 
