@@ -25,19 +25,19 @@
 
 <div class="mySlides">
   <div class="numbertext">1 / 3</div>
-  <img src="assets/img/indexpot.JPG" style="width:100%">
+  <img src="assets/img/indexpot.JPG" style="width:50%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">2 / 3</div>
-  <img src="https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-adult-landing-hero.ashx" style="width:100%">
+  <img src="https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-adult-landing-hero.ashx" style="width:50%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">3 / 3</div>
-  <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" style="width:100%">
+  <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" style="width:50%">
   <div class="text">Caption Three</div>
 </div>
 
