@@ -11,9 +11,9 @@
 <div class="container">
 	<div class="row">
     <div class="col-xs-5 col-md-5 col-log-5">
-      <img src="assets/img/logo.png" title="logo">
+      <img src="assets/img/logo.jpg" title="logo">
     </div>
-    
+
 		<div class="col-xs-7 col-md-7 col-lg-7">
 		<center>
 		<h2> Gallery</h2>
