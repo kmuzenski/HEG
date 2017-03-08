@@ -25,7 +25,7 @@
 
 <div class="mySlides">
   <div class="numbertext">1 / 3</div>
-  <img src="assets/img/indexpot.jpg" style="width:100%">
+  <img src="assets/img/indexpot.JPG" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
