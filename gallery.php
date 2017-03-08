@@ -15,10 +15,10 @@
     </div>
 
 		<div class="col-xs-7 col-md-7 col-lg-7">
-		<center>
+		
 		<right><h2> Gallery</h2>
 		<h5><a href="albums.php" title="View Photo Albums"> View Photo Albums </a></h5></right>
-		</center>
+		
 		</div>
 	</div>
 </div>
