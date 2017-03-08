@@ -12,7 +12,7 @@
 
 	<div class="row">
 		<div class="col-xs-3 col-md-3 col-lg-3">
-		<img src="assets/img/logo.jpg" title="farie logo">
+		<img src="assets/img/logo.jpg" title="farie logo" width="100px">
 		</div>
 
 		<div class="col-xs-9 col-md-9 col-lg-9">
