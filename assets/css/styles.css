@@ -97,6 +97,7 @@ body {
 	font-size: 18px;
 	transition: 0.6s ease;
 	border-radius: 0 3px 3px 0;
+	color:#2010a0;
 }
 
 
@@ -106,10 +107,7 @@ body {
 	border-radius: 3px 0 0 3px;
 }
 
-/*On hover + blk bg w/ transparancy */
-.prev:hover, .next:hover {
-	background-color: rgba(0,0,0,0.8);
-}
+
 
 /* Caption text */
 .text {
