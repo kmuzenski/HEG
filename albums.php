@@ -37,7 +37,7 @@
 
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<img src="assets/img/indexpot.JPG" width="75%">
+			<a href="winterpots.php" title="winter pots"><img src="assets/img/walbum.png" class="album" width="75%"></a>
 		</center>
 		</div>
 	</div><!-- row -->

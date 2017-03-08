@@ -12,7 +12,7 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
-		<h2> Spring Pots</h2>
+		<h2> Gallery</h2>
 		<h5><a href="albums.php" title="View Photo Albums"> View Photo Albums </a></h5>
 		</center>
 		</div>
@@ -28,29 +28,21 @@
 
 <div class="slideshow-container">
 
+<div class="mySlides">
+  <center>
+  <img src="assets/img/indexpot.JPG" style="width:60%">
+  </center>
+  <div class="text">Featured Pot</div>
+  <div class="numbertext"><center>1 / 8</center></div>
+
+</div>
 
 <div class="mySlides">
   <center>
   <img src="assets/img/sppot1.JPG" style="width:45%">
   </center>
   <div class="text">Spring Pot</div>
-  <div class="numbertext"><center>1 / 3</center></div>
-</div>
-
-<div class="mySlides">
-  <center>
-  <img src="assets/img/sppot2.JPG" style="width:45%">
-  </center>
-  <div class="text">Spring Pot</div>
-  <div class="numbertext"><center>1 / 3</center></div>
-</div>
-
-<div class="mySlides">
-  <center>
-  <img src="assets/img/spbox.JPG" style="width:65%">
-  </center>
-  <div class="text">Spring Box</div>
-  <div class="numbertext"><center>1 / 3</center></div>
+  <div class="numbertext"><center>2 / 8</center></div>
 </div>
 
 
@@ -65,6 +57,11 @@
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
 </div>
 
 		</div><!-- col row container -->
