@@ -9,8 +9,13 @@
 <br><br><br><br><br><br>
 
 <div class="container">
+
 	<div class="row">
-		<div class="col-xs-12 col-md-12 col-lg-12">
+		<div class="col-xs-3 col-md-3 col-lg-3">
+		<img src="assets/img/logo.jpg" title="farie logo">
+		</div>
+
+		<div class="col-xs-9 col-md-9 col-lg-9">
 		<center>
 		<h2> Albums </h2>
 		<h5><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></h5>
