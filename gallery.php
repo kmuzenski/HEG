@@ -29,7 +29,7 @@
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">1 / 5</div>
   <center>
   <img src="assets/img/indexpot.JPG" style="width:60%">
   </center>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">2 / 5</div>
   <center>
   <img src="assets/img/smpot1.JPG" style="width:50%">
   </center>
@@ -45,7 +45,7 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">3 / 5</div>
   <center>
   <img src="assets/img/smpot2.JPG" style="width:50%">
   </center>
@@ -53,9 +53,17 @@
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">4 / 4</div>
+  <div class="numbertext">4 / 5</div>
   <center>
   <img src="assets/img/smpot3.JPG" style="width:50%">
+  </center>
+  <div class="text">Summer Pot</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">5 / 5</div>
+  <center>
+  <img src="assets/img/smpot4.JPG" style="width:50%">
   </center>
   <div class="text">Summer Pot</div>
 </div>
