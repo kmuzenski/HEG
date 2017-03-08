@@ -21,23 +21,34 @@
 
 <br><br>
 
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-md-12 col-lg-12">
+
+
 <div class="slideshow-container">
 
 <div class="mySlides">
   <div class="numbertext">1 / 3</div>
+  <center>
   <img src="assets/img/indexpot.JPG" style="width:50%">
+  </center>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">2 / 3</div>
+  <center>
   <img src="https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-adult-landing-hero.ashx" style="width:50%">
+  </center>
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides">
   <div class="numbertext">3 / 3</div>
+  <center>
   <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" style="width:50%">
+  </center>
   <div class="text">Caption Three</div>
 </div>
 
@@ -52,6 +63,11 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
+
+		</div><!-- col row container -->
+	</div>
+</div>
+
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
