@@ -31,7 +31,7 @@
 		
 		<div class="col-xs-4 col-md-4 col-lg-4">
 		<center>
-			<img src="assets/img/indexpot.JPG" width="75%">
+			<a href="springpots.php" title="spring pots"><img src="assets/img/spalbum.png" class="album" width="75%"></a>
 		</center>
 		</div>
 
