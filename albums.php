@@ -12,14 +12,14 @@
 
 	<div class="row">
 		<div class="col-xs-3 col-md-3 col-lg-3">
-		<img src="assets/img/logo.jpg" title="farie logo" width="100px">
+		<img src="assets/img/logo.jpg" title="farie logo" width="150px">
 		</div>
 
 		<div class="col-xs-9 col-md-9 col-lg-9">
-		<center>
+		
 		<h2> Albums </h2>
 		<h5><a href="gallery.php" title="View Full Gallery"> View Full Gallery </a></h5>
-		</center>
+		
 		</div>
 	</div>
 </div>
