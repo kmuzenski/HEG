@@ -19,13 +19,13 @@
 	</div>
 </div>
 
-<br><br><br><br><br> 
+<br><br>
 
 <div class="slideshow-container">
 
 <div class="mySlides">
   <div class="numbertext">1 / 3</div>
-  <img src="http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg" style="width:100%">
+  <img src="assets/img/indexpot.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
