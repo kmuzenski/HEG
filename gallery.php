@@ -11,7 +11,7 @@
 <div class="container">
 	<div class="row">
     <div class="col-xs-5 col-md-5 col-log-5">
-      <center><img src="assets/img/logo.jpg" title="logo" width="200px"></center>
+      <left><img src="assets/img/logo.jpg" title="logo" width="200px"></left>
     </div>
 
 		<div class="col-xs-7 col-md-7 col-lg-7">
