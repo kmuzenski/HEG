@@ -10,7 +10,7 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-xs-8 col-md-12 col-lg-8">
+		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
 			<h3> HOLLYS ENCHANTED GARDENS</h3>
 			</center>
@@ -23,7 +23,7 @@
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
 			<a href="gallery.php"><h5>View Full Gallery</h5></a>
-			<img src="assets/img/indexpot.JPG" width="45%">
+			<img src="assets/img/indexpot.JPG" width="40%">
 		</center>
 		</div>
 	</div>
