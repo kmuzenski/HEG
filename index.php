@@ -12,7 +12,7 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
-			<h3> HOLLYS ENCHANTED GARDENS</h3>
+			<h3> HOLLYS <br> ENCHANTED <br> GARDENS</h3>
 			</center>
 		</div>
 	</div>
