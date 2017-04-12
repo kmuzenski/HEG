@@ -57,13 +57,13 @@ p {
 }
 
 
-.navbar {
-   background-color: #2010a0;
- 
+.mynavb {
+	background-color:#2010a0; 
 }
 
-.navbar .navbar-nav ul li a {
-	color:white;
+.mynav {
+	font-color: #FFFFFF;
+	font-size: 24px;
 }
 
 .album {
