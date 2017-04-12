@@ -1,4 +1,4 @@
-<div class="container" id="mynavb">
+<div id="mynavb">
 	<div class="row">
 	
 	<div class="col-xs-12 col-md-3 col-lg-4">
@@ -15,7 +15,7 @@
 
 	<div class="col-xs-12 col-md-4 col-lg-4">
 	<center>
-	<p id="mynav"><a href="contact.php" title="contact">Contact</a></p>
+	<p id="mynav"><a href="contact.php" title="contact" id="mynav">Contact</a></p>
 	</center>
 	</div>
 
