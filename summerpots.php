@@ -5,7 +5,7 @@
 <?php require_once('header.php'); ?>
 
 <body>
-<?php require_once('nav.php'); ?>
+<?php require_once('mynav.php'); ?>
 <br><br><br><br>
 
 <div class="container">

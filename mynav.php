@@ -6,7 +6,7 @@
 	<p><a href="index.php" id="mynav" title="home">Home</a></p>
 	</center>
 	</div>
-
+	
 	<div class="col-xs-12 col-md-4 col-lg-4">
 	<center>
 	<p><a href="gallery.php" id="mynav" title="gallery">Gallery</a></p>

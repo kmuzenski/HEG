@@ -6,6 +6,8 @@
 
 <body>
 
+<?php require_once('mynav.php'); ?>
+
 
 
 <br><br><br><br><br><br>
