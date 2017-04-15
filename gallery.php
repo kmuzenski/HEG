@@ -17,7 +17,7 @@
 		<div class="col-xs-7 col-md-7 col-lg-7">
 		
 		<right><h2> Gallery</h2>
-		<h5><a href="albums.php" title="View Photo Albums"> View Photo Albums </a></h5></right>
+		<a href="albums.php" title="View Photo Albums"><p>View Photo Albums </p></a></h5></right>
 		
 		</div>
 	</div>

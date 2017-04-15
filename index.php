@@ -25,7 +25,7 @@
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
 			<img src="assets/img/indexpot.JPG" width="40%">
-			<a href="gallery.php"><h6>View Full Gallery</h6></a>
+			<a href="gallery.php"><p>View Full Gallery</p></a>
 		</center>
 		</div>
 	</div>
