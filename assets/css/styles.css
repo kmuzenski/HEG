@@ -66,6 +66,10 @@ p {
 	font-size: 24px;
 }
 
+#navborder {
+	border: 1px solid #FFFFFF;
+}
+
 .album {
 	border: 5px solid #2010a0;
 }
