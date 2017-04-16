@@ -13,9 +13,9 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-4 col-md-4 col-lg-4">
-			<center>
+			<right>
 			<img src="assets/img/flogo.png" width="100px">
-			</center>
+			</right>
 		</div>
 		<div class="col-xs-8 col-md-8 col-lg-8">
 			<center>
