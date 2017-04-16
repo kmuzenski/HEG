@@ -14,12 +14,12 @@
 	<div class="row">
 		<div class="col-xs-6 col-md-6 col-lg-6">
 			<right>
-			<img src="assets/img/logo.jpg" width="100%">
+			<img src="assets/img/logo.jpg" width="80%">
 			</right>
 		</div>
 		<div class="col-xs-6 col-md-6 col-lg-6">
 			<center>
-			<img src="assets/img/indexpot.JPG" width="100%">
+			<img src="assets/img/indexpot.JPG" width="80%">
 			<a href="gallery.php"><p>View Full Gallery</p></a>
 			</center>
 		</div>
