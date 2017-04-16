@@ -10,15 +10,19 @@
 
 <div class="container">
 	<div class="row">
-    <div class="col-xs-5 col-md-5 col-log-5">
-      <center><img src="assets/img/flogo.png" title="logo" width="200px"></center>
+    <div class="col-xs-6 col-md-6 col-log-6">
+      <center>
+      <img src="assets/img/flogo.png" title="logo" width="100px">
+      </center>
     </div>
 
-		<div class="col-xs-7 col-md-7 col-lg-7">
-		
-		<right><h2> Gallery</h2>
-		<a href="albums.php" title="View Photo Albums"><p>View Photo Albums </p></a></h5></right>
-		
+		<div class="col-xs-6 col-md-6 col-lg-6">
+		<center>
+		<h2> Gallery</h2>
+		<a href="albums.php" title="View Photo Albums">
+    <p>View Photo Albums</p>
+    </a>
+		</center>
 		</div>
 	</div>
 </div>
