@@ -19,7 +19,7 @@
 		</div>
 		<div class="col-xs-6 col-md-6 col-lg-6">
 			<center>
-			<img src="assets/img/indexpot.JPG" width="80%">
+			<img src="assets/img/indexpot.JPG" width="65%">
 			<a href="gallery.php"><p>View Full Gallery</p></a>
 			</center>
 		</div>
