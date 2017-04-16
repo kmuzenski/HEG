@@ -14,7 +14,7 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
-			<img src="assets/img/flogo.png" width="50%">
+			<img src="assets/img/flogo.png" width="50px">
 			<h4> HOLLYS <br> ENCHANTED <br> GARDENS</h4>
 			</center>
 		</div>
