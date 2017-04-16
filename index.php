@@ -12,29 +12,20 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-xs-4 col-md-4 col-lg-4">
+		<div class="col-xs-6 col-md-6 col-lg-6">
 			<right>
-			<img src="assets/img/flogo.png" width="100px">
+			<img src="assets/img/logo.png" width="100px">
 			</right>
 		</div>
-		<div class="col-xs-8 col-md-8 col-lg-8">
-			<center>
-			<h4> HOLLYS <br> ENCHANTED <br> GARDENS</h4>
-			</center>
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12 col-md-12 col-lg-12">
-		<center>
+		<div class="col-xs-6 col-md-6 col-lg-6">
+			center>
 			<img src="assets/img/indexpot.JPG" width="40%">
 			<a href="gallery.php"><p>View Full Gallery</p></a>
 		</center>
 		</div>
 	</div>
 </div>
+
 
 
 
