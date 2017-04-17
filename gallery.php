@@ -12,7 +12,7 @@
 	<div class="row">
     <div class="col-xs-6 col-md-6 col-log-6">
       <center>
-      <img src="assets/img/flogo.png" title="logo" width="80%">
+      <img src="assets/img/flogo.png" title="logo" width="40%">
       </center>
     </div>
 
