@@ -10,13 +10,13 @@
 
 <div class="container">
 	<div class="row">
-    <div class="col-xs-6 col-md-6 col-log-6">
+    <div class="col-xs-4 col-md-4 col-log-4">
       <center>
-      <img src="assets/img/flogo.png" title="logo" width="20%">
+      <img src="assets/img/flogo.png" title="logo" width="100px">
       </center>
     </div>
 
-		<div class="col-xs-6 col-md-6 col-lg-6">
+		<div class="col-xs-8 col-md-8 col-lg-8">
 		<center>
 		<h2> Gallery</h2>
 		<a href="albums.php" title="View Photo Albums">
@@ -38,7 +38,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/indexpot.JPG" style="width:60%">
+  <img src="assets/img/indexpot.JPG" style="width:35%">
   </center>
   <div class="text">Featured Pot</div>
   <div class="numbertext"><center>1 / 8</center></div>
@@ -47,7 +47,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/sppot1.JPG" style="width:45%">
+  <img src="assets/img/sppot1.JPG" style="width:35%">
   </center>
   <div class="text">Spring Pot</div>
   <div class="numbertext"><center>2 / 8</center></div>
@@ -55,7 +55,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/sppot2.JPG" style="width:45%">
+  <img src="assets/img/sppot2.JPG" style="width:35%">
   </center>
   <div class="text">Spring Pot</div>
   <div class="numbertext"><center>3 / 8</center></div>
@@ -63,7 +63,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/spbox.JPG" style="width:65%">
+  <img src="assets/img/spbox.JPG" style="width:35%">
   </center>
   <div class="text">Spring Box</div>
   <div class="numbertext"><center>4 / 8</center></div>
@@ -71,7 +71,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/smpot1.JPG" style="width:45%">
+  <img src="assets/img/smpot1.JPG" style="width:35%">
   </center>
   <div class="text">Summer Pot</div>
     <div class="numbertext"><center>5 / 8</center></div>
@@ -79,7 +79,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/smpot2.JPG" style="width:45%">
+  <img src="assets/img/smpot2.JPG" style="width:35%">
   </center>
   <div class="text">Summer Pot</div>
     <div class="numbertext"><center>6 / 8</center></div>
@@ -87,7 +87,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/smpot3.JPG" style="width:45%">
+  <img src="assets/img/smpot3.JPG" style="width:35%">
   </center>
   <div class="text">Summer Pot</div>
     <div class="numbertext"><center>7 / 8</center></div>
@@ -95,7 +95,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/smpot4.JPG" style="width:45%">
+  <img src="assets/img/smpot4.JPG" style="width:35%">
   </center>
   <div class="text">Summer Pot</div>
   <div class="numbertext"><center>8 / 8</center></div>
